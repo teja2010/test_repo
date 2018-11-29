@@ -1,10 +1,13 @@
 <manifest>
+	<remote name="testbed_gitlab" fetch="http://testbed.cewit.org.in/"/>
 	<project path="5G_Core"
-		 fetch="https://testbed.cewit.org.in/5GC/5g_core.git"
-		 dest-branch="integration"
+		 remote="testbed_gitlab"
+		 name="5GC/5g_core.git"
+		 revision="integration"
 		 />
 	<project path="RAN_EMU"
-		 fetch="https://testbed.cewit.org.in/5GC/5g_ran_emulator.git"
-		 dest-branch="integration"
+		 remote="testbed_gitlab"
+		 name="5GC/5g_ran_emulator.git"
+		 revision="integration"
 		 />
 </manifest>
