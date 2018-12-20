@@ -10,4 +10,9 @@
 		 name="5GC/5g_ran_emulator.git"
 		 revision="integration"
 		 />
+	<project path="Utility_library"
+		 remote="testbed_gitlab"
+		 name="5GC/utility_library.git"
+		 revision="integration"
+		 />
 </manifest>
