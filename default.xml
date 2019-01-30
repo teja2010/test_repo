@@ -3,11 +3,11 @@
 	<project path="5G_Core"
 		 remote="github"
 		 name="KapilGokhale/5GCore.git"
-		 revision="integration"
+		 revision="master"
 		 />
 	<project path="utility_library"
 		 remote="github"
 		 name="KapilGokhale/utility_library.git"
-		 revision="integration"
+		 revision="master"
 		 />
 </manifest>
