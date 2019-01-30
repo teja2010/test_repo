@@ -1,5 +1,5 @@
 <manifest>
-	<remote name="github" fetch="https://github.com/KapilGokhale/"/>
+	<remote name="github" fetch="https://github.com/"/>
 	<project path="5G_Core"
 		 remote="github"
 		 name="KapilGokhale/5GCore.git"
