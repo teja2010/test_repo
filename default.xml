@@ -1,0 +1,13 @@
+<manifest>
+	<remote name="github" fetch="https://github.com/KapilGokhale/"/>
+	<project path="5G_Core"
+		 remote="github"
+		 name="KapilGokhale/5GCore.git"
+		 revision="integration"
+		 />
+	<project path="utility_library"
+		 remote="github"
+		 name="KapilGokhale/utility_library.git"
+		 revision="integration"
+		 />
+</manifest>
